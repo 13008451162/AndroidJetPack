@@ -1,5 +1,7 @@
 package com.xupt3g.androidjetpack;
 
+import android.nfc.Tag;
+
 /**
  * 项目名: AndroidJetpack
  * 文件名: test
@@ -10,4 +12,5 @@ package com.xupt3g.androidjetpack;
  */
 
 public class test {
+    public static Tag = Tag;
 }
